@@ -12,7 +12,7 @@ int main()
     scanf("%d", &x);
     rad = arb_init_root(&A, x);
 
-    int cheie = -2;
+    int cheie = -3;
     
 
     while ( cheie )
